@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "722d7406-5715-40db-9d58-f818ebf0b356": {
+      "ProjectGuid": "722d7406-5715-40db-9d58-f818ebf0b356",
+      "DisplayName": "CountingSort",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

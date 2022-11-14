@@ -1,0 +1,5 @@
+E:\pr\Algorithms\arrays\CountingSort\obj\Debug\net6.0\CountingSort.csproj.AssemblyReference.cache
+E:\pr\Algorithms\arrays\CountingSort\obj\Debug\net6.0\CountingSort.GeneratedMSBuildEditorConfig.editorconfig
+E:\pr\Algorithms\arrays\CountingSort\obj\Debug\net6.0\CountingSort.AssemblyInfoInputs.cache
+E:\pr\Algorithms\arrays\CountingSort\obj\Debug\net6.0\CountingSort.AssemblyInfo.cs
+E:\pr\Algorithms\arrays\CountingSort\obj\Debug\net6.0\CountingSort.csproj.CoreCompileInputs.cache
